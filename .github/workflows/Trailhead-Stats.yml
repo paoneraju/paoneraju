@@ -18,19 +18,10 @@ jobs:
         with:
           trailhead-username: 'paoneraju'
           display-type: 'card'
-          darkStyle: 'dark'
-          showSkillNumber: 3
-          showSkillTheme: 'olympic'
-          showSkill: 'visible'
-          showCertification: 'detail'
-          showBadge: 'icon'
-          showSuperBadge: 'icon'
-          showEventBadge: 'icon'
-          showStamp: 'icon'
-          showCertificationLatest: 'hidden'
-          showBadgeLatest: 'hidden'
-          showSuperBadgeLatest: 'hidden'
-          showEventBadgeLatest: 'hidden'
-          showStampLatest: 'hidden'
+          display-file: 'README.md'
+          file-format: 'html'
+          card-path: './TS-cards'
+          showSkillNumber: 4
+          showSkillTheme: 'winter'
 
  
