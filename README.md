@@ -16,12 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!--TH_Stats:start-->
-
-<a href="https://www.salesforce.com/trailblazer/paoneraju">
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="TS-cards/TScard-light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="TS-cards/TScard-dark.png">
-    <img alt="Shows the Trailhead Stats card in either light or dark theme." src="TS-cards/TScard-light.png">
-</picture>
-</a>
+undefined
 <!--TH_Stats:end-->
